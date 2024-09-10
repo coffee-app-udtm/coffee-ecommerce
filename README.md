@@ -13,7 +13,7 @@
 ## Công nghệ
 - Backend: Sử dụng Nodejs, Expressjs để làm server phía backend cung cấp api
 
-- Frontend: Sử dụng Nextjs, NextUI, Tailwindcss, Firebase 
+- Frontend: Sử dụng Nextjs, NextUI, Tailwindcss, Firebase, SWR, Zustand
 
 - Database: Sử dụng Mysql
 
@@ -60,6 +60,20 @@
 
 3. Admin quản lý:
    - Quản lý doanh thu các chi nhánh
+   - Quản lý khách hàng
 
 ## Phân công
+### Winform C#
+| STT | Nghiệp vụ | Phân công |
+| -------- | ------- | -------- |
+| 1 |  Đăng nhập admin / cửa hàng    | Nga 
+| 2 |  Form dashboard | Nga
+| 3 |  Form order sản phẩm | Vinh
+| 4 |  Form quản lý sản phẩm | Vinh
+| 5 |  Form doanh thu cửa hàng | Nhi
+| 6 |  Form doanh thu tổng ( admin ) | Nhi
+| 7 |  Form danh sách khách hàng | Nga
+| 8 |  Form danh mục sản phẩm | Nhi
+| 9 |  Chatbot
 
+### 
