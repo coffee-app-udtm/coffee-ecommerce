@@ -1,6 +1,9 @@
 # Ứng dụng đặt đồ uống
 
 ![image](https://github.com/user-attachments/assets/f0efaca0-bd55-4829-ac50-1566451a4c3f)
+![image](https://github.com/user-attachments/assets/65d9fcbb-b19e-4e25-973f-40a055f83a75)
+![image](https://github.com/user-attachments/assets/4808e67c-ca48-4959-9804-98360ef6471c)
+
 
 ## Thành viên
 
